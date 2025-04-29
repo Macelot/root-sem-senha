@@ -8,8 +8,7 @@ Se você esqueceu a senha do usuário `root` no Debian, siga este procedimento p
 
 ### 1. Reinicie o computador
 
-- No menu do **GRUB**, selecione a entrada padrão do Debian.
-- Pressione a tecla **`e`** para editar.
+- No menu do **GRUB**, pressione a tecla **`e`** para editar.
 
 ---
 
